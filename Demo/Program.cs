@@ -248,6 +248,23 @@ namespace Demo
             //         }; 
             #endregion
 
+            #region Tracking VS NoTracking
+
+            // Tracking VS NoTracking
+
+            //using AppDbContext context = new AppDbContext();
+
+            //var Result = context.Employees.AsNoTracking().FirstOrDefault(E => E.Id == 10);
+
+            //Console.WriteLine(context.Entry(Result).State);
+
+            //Result.Name = "Amr";
+
+            //Console.WriteLine(context.Entry(Result).State);
+
+            //Console.WriteLine(Result.Name); 
+            #endregion
+
 
 
 
