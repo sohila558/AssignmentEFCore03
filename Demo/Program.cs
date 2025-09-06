@@ -265,6 +265,30 @@ namespace Demo
             //Console.WriteLine(Result.Name); 
             #endregion
 
+            #region Local VS Remote
+            // Local VS Remote
+
+            //using AppDbContext context = new AppDbContext();
+
+            // Remotly
+
+            //context.Employees.Any();
+            //context.Employees.Any();
+            //context.Employees.Any();
+            //context.Employees.Any();
+            //context.Employees.Any();
+            //context.Employees.Any();
+            //context.Employees.Any();
+            //context.Employees.Any();
+            //context.Employees.Any();
+            //context.Employees.Any();
+            //context.Employees.Any();
+            //context.Employees.Any();
+
+            //context.Employees.Load();
+
+            //context.Employees.Local.Any(); 
+            #endregion
 
 
 
