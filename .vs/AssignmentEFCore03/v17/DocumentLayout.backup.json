@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "D:\\route backend .net\\Week14\\Session 03 EFCore\\Session 03\\Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9ECF5631-3127-40A5-B3EE-B33F16ABE41B}|Demo\\Demo.csproj|d:\\route backend .net\\week14\\session 03 efcore\\session 03\\solution\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ECF5631-3127-40A5-B3EE-B33F16ABE41B}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ECF5631-3127-40A5-B3EE-B33F16ABE41B}|Demo\\Demo.csproj|d:\\route backend .net\\week14\\session 03 efcore\\session 03\\solution\\demo\\loadingofnavigational\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ECF5631-3127-40A5-B3EE-B33F16ABE41B}|Demo\\Demo.csproj|solutionrelative:demo\\loadingofnavigational\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ECF5631-3127-40A5-B3EE-B33F16ABE41B}|Demo\\Demo.csproj|d:\\route backend .net\\week14\\session 03 efcore\\session 03\\solution\\demo\\loadingofnavigational\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ECF5631-3127-40A5-B3EE-B33F16ABE41B}|Demo\\Demo.csproj|solutionrelative:demo\\loadingofnavigational\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ECF5631-3127-40A5-B3EE-B33F16ABE41B}|Demo\\Demo.csproj|d:\\route backend .net\\week14\\session 03 efcore\\session 03\\solution\\demo\\loadingofnavigational\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ECF5631-3127-40A5-B3EE-B33F16ABE41B}|Demo\\Demo.csproj|solutionrelative:demo\\loadingofnavigational\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ECF5631-3127-40A5-B3EE-B33F16ABE41B}|Demo\\Demo.csproj|d:\\route backend .net\\week14\\session 03 efcore\\session 03\\solution\\demo\\loadingofnavigational\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ECF5631-3127-40A5-B3EE-B33F16ABE41B}|Demo\\Demo.csproj|solutionrelative:demo\\loadingofnavigational\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ECF5631-3127-40A5-B3EE-B33F16ABE41B}|Demo\\Demo.csproj|d:\\route backend .net\\week14\\session 03 efcore\\session 03\\solution\\demo\\loadingofnavigational\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ECF5631-3127-40A5-B3EE-B33F16ABE41B}|Demo\\Demo.csproj|solutionrelative:demo\\loadingofnavigational\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{870470DB-3A39-4DDD-84EC-8367C2F646FF}|DB First\\DB First.csproj|d:\\route backend .net\\week14\\session 03 efcore\\session 03\\solution\\db first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870470DB-3A39-4DDD-84EC-8367C2F646FF}|DB First\\DB First.csproj|solutionrelative:db first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 282,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,80 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DepartmentConfiguration.cs",
-              "DocumentMoniker": "D:\\route backend .net\\Week14\\Session 03 EFCore\\Session 03\\Solution\\Demo\\LoadingOfNavigational\\Configurations\\DepartmentConfiguration.cs",
-              "RelativeDocumentMoniker": "Demo\\LoadingOfNavigational\\Configurations\\DepartmentConfiguration.cs",
-              "ToolTip": "D:\\route backend .net\\Week14\\Session 03 EFCore\\Session 03\\Solution\\Demo\\LoadingOfNavigational\\Configurations\\DepartmentConfiguration.cs",
-              "RelativeToolTip": "Demo\\LoadingOfNavigational\\Configurations\\DepartmentConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T10:13:09.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmployeeConfiguration.cs",
-              "DocumentMoniker": "D:\\route backend .net\\Week14\\Session 03 EFCore\\Session 03\\Solution\\Demo\\LoadingOfNavigational\\Configurations\\EmployeeConfiguration.cs",
-              "RelativeDocumentMoniker": "Demo\\LoadingOfNavigational\\Configurations\\EmployeeConfiguration.cs",
-              "ToolTip": "D:\\route backend .net\\Week14\\Session 03 EFCore\\Session 03\\Solution\\Demo\\LoadingOfNavigational\\Configurations\\EmployeeConfiguration.cs",
-              "RelativeToolTip": "Demo\\LoadingOfNavigational\\Configurations\\EmployeeConfiguration.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvx4AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T10:13:08.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Department.cs",
-              "DocumentMoniker": "D:\\route backend .net\\Week14\\Session 03 EFCore\\Session 03\\Solution\\Demo\\LoadingOfNavigational\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "Demo\\LoadingOfNavigational\\Models\\Department.cs",
-              "ToolTip": "D:\\route backend .net\\Week14\\Session 03 EFCore\\Session 03\\Solution\\Demo\\LoadingOfNavigational\\Models\\Department.cs",
-              "RelativeToolTip": "Demo\\LoadingOfNavigational\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T09:54:14.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\route backend .net\\Week14\\Session 03 EFCore\\Session 03\\Solution\\Demo\\LoadingOfNavigational\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Demo\\LoadingOfNavigational\\Models\\Employee.cs",
-              "ToolTip": "D:\\route backend .net\\Week14\\Session 03 EFCore\\Session 03\\Solution\\Demo\\LoadingOfNavigational\\Models\\Employee.cs",
-              "RelativeToolTip": "Demo\\LoadingOfNavigational\\Models\\Employee.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T09:54:13.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\route backend .net\\Week14\\Session 03 EFCore\\Session 03\\Solution\\Demo\\LoadingOfNavigational\\Contexts\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Demo\\LoadingOfNavigational\\Contexts\\AppDbContext.cs",
-              "ToolTip": "D:\\route backend .net\\Week14\\Session 03 EFCore\\Session 03\\Solution\\Demo\\LoadingOfNavigational\\Contexts\\AppDbContext.cs",
-              "RelativeToolTip": "Demo\\LoadingOfNavigational\\Contexts\\AppDbContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABAAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T09:47:34.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\route backend .net\\Week14\\Session 03 EFCore\\Session 03\\Solution\\Demo\\Program.cs",
-              "RelativeDocumentMoniker": "Demo\\Program.cs",
-              "ToolTip": "D:\\route backend .net\\Week14\\Session 03 EFCore\\Session 03\\Solution\\Demo\\Program.cs*",
-              "RelativeToolTip": "Demo\\Program.cs*",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGgAAAAiAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\route backend .net\\Week14\\Session 03 EFCore\\Session 03\\Solution\\DB First\\Program.cs",
+              "RelativeDocumentMoniker": "DB First\\Program.cs",
+              "ToolTip": "D:\\route backend .net\\Week14\\Session 03 EFCore\\Session 03\\Solution\\DB First\\Program.cs",
+              "RelativeToolTip": "DB First\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T13:24:53.056Z",
+              "WhenOpened": "2025-09-06T15:39:51.505Z",
               "EditorCaption": ""
             }
           ]

@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentEFCore03", "Assig
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{9ECF5631-3127-40A5-B3EE-B33F16ABE41B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB First", "DB First\DB First.csproj", "{870470DB-3A39-4DDD-84EC-8367C2F646FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB First Using EF Core Power Tools", "DB First Using EF Core Power Tools\DB First Using EF Core Power Tools.csproj", "{F18A6FA4-3285-44D8-9101-D14A5945D260}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{9ECF5631-3127-40A5-B3EE-B33F16ABE41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ECF5631-3127-40A5-B3EE-B33F16ABE41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ECF5631-3127-40A5-B3EE-B33F16ABE41B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{870470DB-3A39-4DDD-84EC-8367C2F646FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870470DB-3A39-4DDD-84EC-8367C2F646FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870470DB-3A39-4DDD-84EC-8367C2F646FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870470DB-3A39-4DDD-84EC-8367C2F646FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F18A6FA4-3285-44D8-9101-D14A5945D260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18A6FA4-3285-44D8-9101-D14A5945D260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18A6FA4-3285-44D8-9101-D14A5945D260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18A6FA4-3285-44D8-9101-D14A5945D260}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
