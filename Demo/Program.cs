@@ -207,6 +207,47 @@ namespace Demo
             //#endregion 
             #endregion
 
+            #region Join Operator - Inner Join
+            // Join Operator - Inner Join
+
+            /*
+             * Select E.Id, E.Name, D.Id, D.Name    
+             * From Employees E, Department D
+             * Where D.Id = E.DeptId -- PK = FK
+             */
+
+
+            // Fluent Syntax
+
+            //using AppDbContext context = new AppDbContext();
+
+            //var Result = context.Employees.Join(context.Departments, E => E.DeptId, D => D.Id, (E, D) => new
+            //{
+            //    EmpId = E.Id,
+            //    EmpName = E.Name,
+            //    DeptId = D.Id,
+            //    DeptName = D.Name
+            //});
+
+            //foreach (var item in Result)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            //// Query Expression
+
+            //Result = from E in context.Employees
+            //         join D in context.Departments
+            //         on E.DeptId equals D.Id
+            //         select new
+            //         {
+            //             EmpId = E.Id,
+            //             EmpName = E.Name,
+            //             DeptId = D.Id,
+            //             DeptName = D.Name
+            //         }; 
+            #endregion
+
 
 
 
